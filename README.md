@@ -1,16 +1,78 @@
-# React + Vite
+# 📋 Post Management System (Major Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-featured React application that allows users to create, edit, delete, search, and manage posts with theme support and local storage persistence.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Overview
 
-## React Compiler
+The **Post Management System** is a React-based web application developed as my **Major Project** during my internship at **Tripple One Solutions**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+It demonstrates modern frontend development practices such as component-based architecture, state management, conditional rendering, and persistent storage.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Purpose of the Project
+
+- To understand **React fundamentals**
+- To manage application state using hooks
+- To build reusable components
+- To implement CRUD functionality
+- To create a real-world usable application
+- To improve UI/UX using themes and animations
+
+---
+
+## 🛠 Technologies Used
+
+- **React.js** – Component-based frontend framework  
+- **Vite** – Fast development environment  
+- **JavaScript (ES6+)**  
+- **CSS (Custom Styling + Variables)**  
+- **LocalStorage** – Data persistence  
+- **HTML5**
+
+---
+
+## ✨ Key Features
+
+- ➕ Add new posts  
+- ✏️ Edit existing posts  
+- 🗑 Delete posts  
+- 🔍 Search posts by title  
+- 🌗 Dark / Light theme toggle  
+- 💾 LocalStorage persistence  
+- 🎬 Animations & hover effects  
+- 📱 Responsive design  
+
+---
+
+## 📸 Screenshots
+
+### Application Intro
+![Intro](screenshots/Intro.png)
+
+### Add New Post
+![Add Post](screenshots/AddPost.png)
+
+### Edit Post
+![Edit Post](screenshots/EditPost.png)
+
+### Search Posts
+![Search Post](screenshots/SearchPost.png)
+
+### Dark Theme
+![Dark Theme](screenshots/darkTheme.jpeg)
+
+### Light Theme
+![Light Theme](screenshots/lightTheme.jpeg)
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository  
+2. Open terminal inside the project folder  
+3. Install dependencies:
+   ```bash
+   npm install
