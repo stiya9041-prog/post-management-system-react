@@ -47,28 +47,6 @@ It demonstrates modern frontend development practices such as component-based ar
 
 ---
 
-## 📸 Screenshots
-
-### Application Intro
-![Intro](screenshots/Intro.png)
-
-### Add New Post
-![Add Post](screenshots/AddPost.png)
-
-### Edit Post
-![Edit Post](screenshots/EditPost.png)
-
-### Search Posts
-![Search Post](screenshots/SearchPost.png)
-
-### Dark Theme
-![Dark Theme](screenshots/darkTheme.jpeg)
-
-### Light Theme
-![Light Theme](screenshots/lightTheme.jpeg)
-
----
-
 ## 🚀 How to Run the Project
 
 1. Clone the repository  
